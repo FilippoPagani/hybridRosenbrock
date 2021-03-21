@@ -1,2 +1,2 @@
 # hybridRosenbrock
-Simple tutorial for Hybrid Rosenbrock distribution.
+Simple tutorial for Hybrid Rosenbrock distribution --- UNDER CONSTRUCTION.
